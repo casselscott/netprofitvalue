@@ -130,7 +130,7 @@ const NPVCalculator = () => {
               value={{ value: selectedIndustry, label: selectedIndustry }}
             />
             <br></br>
-            <h3>Selected Industry: {selectedIndustry}</h3>
+            <h3>Industry: {selectedIndustry}</h3>
             <div classname="btn btn-secondary dropdown">
               <br></br>
               <input
